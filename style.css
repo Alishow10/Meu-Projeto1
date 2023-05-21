@@ -38,7 +38,7 @@ body {
   font-family: "Roboto", sans-serif;
 
   display: grid;
-  grid-template-areas: "profile" "timeline";
+  grid-template-areas: "profile timeline";
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 100vh;
 }
