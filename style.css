@@ -45,7 +45,8 @@ body {
 
 nav {
   padding: 64px;
-  grid-template-areas: timeline;
+  grid-area: timeline;
+
   overflow-y: scroll;
 
   animation: entrada 0.7s ease-in-out;
